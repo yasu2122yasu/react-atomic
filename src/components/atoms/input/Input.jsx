@@ -8,6 +8,6 @@ export const Input = (props) => {
 const SInput = styled.input`
   padding: 8px 16px;
   border: solid #ddd 1px;
-  boraer-radius: 9999px;
+  border-radius: 9999px;
   outline: none;
 `;
